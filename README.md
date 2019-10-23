@@ -1,3 +1,3 @@
-server-setup-script
+server-setup-scripts
 ===
 
