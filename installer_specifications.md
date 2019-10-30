@@ -16,7 +16,7 @@
 
 ### 言語
 - Python3
-    - ソースコンパイル
+    - デフォルトで入っている
 - Ruby
     - apt, rbenv
 - Java(OpenJDK)
